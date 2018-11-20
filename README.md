@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/20/2018
 
 ### Student Name:  
-(First and Last Name)
+Matthew Weas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the HTML DOM and how JavaScript is used to access and change the elements of an HTML document.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://matthewweas.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
